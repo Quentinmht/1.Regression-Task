@@ -5,7 +5,7 @@ The purpose of this project is to demonstrate my abilities in machine learning a
 Pulmonary fibrosis is a lung disease that occurs when lung tissue becomes damaged and scarred. This thickened, stiff tissue makes it more difficult for your lungs to work properly. As pulmonary fibrosis worsens, you become progressively more short of breath.
 
 ## Task
-The objective of this project is to predict a patient's severity of decline in lung function based on a CT scan of their lungs. The idea is to predict the final three FVC measurements for each patient.
+The objective of this project is to predict a patient's severity of decline in lung function based on a CT scan of their lungs. The idea is to predict the final FVC measurements for each patient.
 
 ## Structure
 
