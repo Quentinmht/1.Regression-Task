@@ -1,7 +1,4 @@
 # Regression Project - OSIC Pulmonary Fibrosis Progression
-The purpose of this project is to demonstrate my abilities in machine learning and more specifically for a regression task that is important to me.
-
-## Project
 Pulmonary fibrosis is a lung disease that occurs when lung tissue becomes damaged and scarred. This thickened, stiff tissue makes it more difficult for your lungs to work properly. As pulmonary fibrosis worsens, you become progressively more short of breath.
 
 ## Task
